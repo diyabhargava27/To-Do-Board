@@ -53,7 +53,7 @@ When "Smart Assign" is clicked , the backend finds the user with the fewest non-
 Handles simultaneous edits to the same task by multiple users.
 
 # Implemented Logic #
-# 1. Version Trackin
+# 1. Version Tracking
 - Each task has version field(Integer)
 - Incremented on every update
 
